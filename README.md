@@ -24,6 +24,8 @@ Mình là **sinh viên năm 4** chuyên ngành **Công nghệ phần mềm** v�
 ### Công cụ và công nghệ khác:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
