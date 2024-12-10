@@ -1,7 +1,9 @@
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 # 👋 Xin chào, mình là **Nguyễn Trọng Hiếu**!
 
 ## 🌟 Giới thiệu bản thân
-Mình là một **sinh viên năm 4** chuyên ngành **Công nghệ phần mềm** với đam mê lập trình và phát triển phần mềm. Ngoài kỹ thuật chuyên môn, mình cũng chú trọng phát triển **kỹ năng mềm** để tạo nên sự khác biệt trong công việc và cuộc sống.
+Mình là **sinh viên năm 4** chuyên ngành **Công nghệ phần mềm** với đam mê lập trình và phát triển phần mềm. Ngoài kỹ thuật chuyên môn, mình cũng chú trọng phát triển **kỹ năng mềm** để tạo nên sự khác biệt trong công việc và cuộc sống.
 
 ---
 
@@ -47,7 +49,7 @@ Mình là một **sinh viên năm 4** chuyên ngành **Công nghệ phần mềm
 
 ## 🌍 Liên hệ với mình
 - 💼 **LinkedIn**: [Trong Hieu Nguyen](https://www.linkedin.com/in/hieuhocit03)
-- 📧 **Email**: [nguyenhieu9c2003@gmail.com]
+- 📧 **Email**: nguyenhieu9c2003@gmail.com
 
 ---
 
@@ -61,6 +63,10 @@ Mình là một **sinh viên năm 4** chuyên ngành **Công nghệ phần mềm
 - 🎮 Chơi game và tìm hiểu công nghệ game.
 - 📚 Đọc sách về kỹ năng mềm, công nghệ và phát triển bản thân.
 - 🤝 Kết nối và trao đổi với những người cùng ngành.
+
+---
+
+> **"The only way to do great work is to love what you do." – Steve Jobs**
 
 ---
 
